@@ -1,2 +1,2 @@
-# -Coursera_Capstone_
+# Coursera_Capstone_
 Public version for final Digital Science Capstone 
